@@ -1,2 +1,3 @@
-# take-home
-Take home is a todo app.
+# take_home
+
+A new Flutter project.

@@ -1,0 +1,17 @@
+{
+    "title": "Titlu",
+    "description": "Descriere",
+    "priority": "Prioritate",
+    "dueDate": "Data limită",
+    "duration": "Durata",
+    "durationUnit": "Durată Unitate",
+    "save": "Salvați",
+    "todo": "De făcut",
+    "inProgress": "În curs de desfășurare",
+    "done": "Realizat",
+    "addAComment": "Adaugă un comentariu",
+    "noCommentsAvaialble": "Nu există comentarii disponibile",
+    "serverError": "Eroare de server",
+    "timeSpent": "Timp petrecut",
+    "completedAt": "Completat la"
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Titel",
+    "description": "Beschreibung",
+    "priority": "Priorität",
+    "dueDate": "Due date",
+    "duration": "Dauer",
+    "durationUnit": "Duration Unit",
+    "save": "Save",
+    "todo": "To Do",
+    "inProgress": "In Progress",
+    "done": "Done",
+    "addAComment": "Kommentar hinzufügen",
+    "noCommentsAvaialble": "No comments available",
+    "serverError": "Server Error",
+    "timeSpent": "Verbrachte Zeit",
+    "completedAt": "Abgeschlossen am"
+}

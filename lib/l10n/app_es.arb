@@ -1,0 +1,17 @@
+{
+    "title": "Título",
+    "description": "Descripción",
+    "priority": "Prioridad",
+    "dueDate": "Fecha de vencimiento",
+    "duration": "Duración",
+    "durationUnit": "Duración Unidad",
+    "save": "Guarda",
+    "todo": "Por hacer",
+    "inProgress": "En curso",
+    "done": "Hecho",
+    "addAComment": "Añade un comentario",
+    "noCommentsAvaialble": "No hay comentarios disponibles",
+    "serverError": "Error del servidor",
+    "timeSpent": "Tiempo empleado",
+    "completedAt": "Completado en"
+}
